@@ -17,7 +17,8 @@ Keywords: build quality, delivery, review
 # 2. Enable Image-to-Content Intelligence
 
 Utilize AI to extract and analyze information from images to generate relevant content, summaries, sentiment insights, and keywords.
-Example:
+
+# Example:
 
 Input: An image of a person smiling at a birthday party
 
@@ -34,7 +35,8 @@ Keywords: birthday, smile, celebration
 # 3. Generate Images from User Prompts in Various Styles
 
 Allow users to generate images based on custom text prompts using AI models, with support for different artistic styles such as realistic, cartoon, sketch, or abstract.
-Example:
+
+# Example:
 
 Prompt: "A futuristic city skyline at sunset in watercolor style"
 
