@@ -41,3 +41,5 @@ Allow users to generate images based on custom text prompts using AI models, wit
 Prompt: "A futuristic city skyline at sunset in watercolor style"
 
 Output: AI-generated image in watercolor style reflecting the described scene.
+
+https://ai-dev.esigns.io/ai_features/docs
