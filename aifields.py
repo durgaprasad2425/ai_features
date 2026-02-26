@@ -47,8 +47,8 @@ AI_CONNECTION_STRING = os.getenv("AI_CONNECTION_STRING")  # Default fallback
 DATABASE_NAMEE= os.getenv("DATABASE_NAMEE")
 
 #Configure keys
-client = OpenAI(api_key="sk-proj-fOYSyuAj_YQsUbcgA")
-API_KEY = 'AIzaSyAS4K2-y79iXICUTrjKClln0'
+client = OpenAI(api_key="")
+API_KEY = 'AIzaSy'
 os.environ["GOOGLE_API_KEY"] = API_KEY
 
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
@@ -490,5 +490,6 @@ Instructions:
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred while processing the images: {str(e)}")
+
 
 
